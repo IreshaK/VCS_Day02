@@ -1,1 +1,8 @@
 Hello from remote
+
+
+Anyone who has had files like 'essay_draft.txt', 'essay_draft_2.txt', 'essay_actual.txt', 'essay_actual_ACTUAL.txt' is already practicing a form of version control, where they are tracking the changes made to a document; this changes the document from a static artefact to a dynamic system with a current state.
+
+As the complexity of a project grows, and the number of contributors increases, renaming files becomes a confusing and inadequate way of tracking changes to and versions of information, so tools like Git provide a suite of functions to make it easier to manage the flow of changes and the various states of the information.
+
+You will learn about the details of this over the coming topics, but it is important to understand that the purpose of a version control system is not just to keep track of the 'current state' of the information, but also to provide tools to interact with the flow of changes over time, an example of this is logging who made what changes to which files when. By modelling the information as a dynamic system, you are able to rebuild what the state of the information would have been a week ago, a month ago, or if you removed
